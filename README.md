@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdullah Dsouky</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulladsouky220&label=Profile%20views&color=0e75b6&style=flat" alt="abdulladsouky220" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulladsouky220" alt="abdulladsouky220" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://abdullahdsouky.netlify.app/](https://abdullahdsouky.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah-dsouky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-dsouky" height="30" width="40" /></a>
-<a href="https://fb.com/abdullah dsouky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah dsouky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah-dsouky-9b84031bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-dsouky-9b84031bb/" height="30" width="40" /></a>
+<a href="https://fb.com/abdullah.dsouky.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah.dsouky.5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
